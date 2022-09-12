@@ -4,6 +4,10 @@
 
 Here are some projects for fun:
 
+🌱 Flower classification:https://fclass.herokuapp.com/
+
+🌱 Random forest model for Banking Customer Churn Prediction and Analysis:https://mlrandomforest.herokuapp.com/
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike456752&show_icons=true&theme=radical)
 
