@@ -4,7 +4,7 @@
 
 Here are some projects for fun:
 
-🌱 Flower classification:https://fclass.herokuapp.com/
+🌱 KNN model for Flower classification:https://fclass.herokuapp.com/
 
 🌱 Random forest model for Banking Customer Churn Prediction and Analysis:https://mlrandomforest.herokuapp.com/
 
