@@ -8,9 +8,9 @@ Here are some projects for fun:
 
 🌱 Random Forest model for Banking Customer Churn Prediction and Analysis:https://mlrandomforest.herokuapp.com/
 
-tableau examples:
+Tableau examples:
 
-🌱 
+🌱 Summary of daily operations:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike456752&show_icons=true&theme=radical)
