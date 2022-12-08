@@ -2,12 +2,6 @@
 
 📫 How to reach me: zongkunyangmike@gmail.com
 
-Here are some projects for fun:
-
-🌱 KNN model for Flower classification:https://fclass.herokuapp.com/
-
-🌱 Random Forest model for Banking Customer Churn Prediction and Analysis:https://mlrandomforest.herokuapp.com/
-
 Tableau examples:
 
 🌱 Covid-19 Analysis:
