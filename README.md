@@ -2,7 +2,7 @@
 
 📫 How to reach me: zongkunyangmike@gmail.com
 
-Tableau examples:
+Tableau examples:https://public.tableau.com/app/profile/zongkun.yang
 
 🌱 Covid-19 Analysis:
 https://github.com/mike456752/tableau/blob/main/1670541964475.jpg
