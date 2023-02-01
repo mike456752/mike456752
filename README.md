@@ -8,7 +8,9 @@ https://public.tableau.com/app/profile/zongkun.yang
 
 Python examples:
 
-bank_churn_prediction: https://github.com/mike456752/bank_churn_prediction/blob/main/Bank_churn.ipynb
+Use Python to answer business questions: https://github.com/mike456752/Data_Analyst/blob/main/R.ipynb
+
+Use Python to build machine learning models: https://github.com/mike456752/bank_churn_prediction/blob/main/Bank_churn.ipynb
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike456752&show_icons=true&theme=radical)
 
