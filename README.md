@@ -10,7 +10,7 @@ https://public.tableau.com/app/profile/zongkun.yang
 
 Use Python to answer business questions: 
 
-- https://github.com/mike456752/python_tosolve_bp/blob/main/%E4%B8%8A%E4%BC%A02.ipynb
+- https://github.com/mike456752/python_tosolve_bp/blob/main/project.ipynb
 
 - https://github.com/mike456752/Data_Analyst/blob/main/R.ipynb
 
