@@ -19,6 +19,7 @@ Use Python to build Machine Learning model to solve business questions:
 
 A/B Testing With Python:
 
+Conversion rate
 - https://github.com/mike456752/A-B_Testing/blob/main/AB%20testing%20with%20Python%20example.ipynb
 
 
