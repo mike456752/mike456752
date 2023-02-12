@@ -16,7 +16,7 @@ Use Python to answer business questions:
 
 Use Python to build Machine Learning model to solve business questions: 
 
-Conversion rate:
+Predicts conversion rate:
 - https://github.com/mike456752/Machine_learning_project/blob/main/Project1.ipynb
 
 A/B Testing With Python:
