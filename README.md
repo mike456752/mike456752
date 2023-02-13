@@ -15,7 +15,7 @@ Use Python to answer business questions:
 - https://github.com/mike456752/Data_Analyst/blob/main/R.ipynb
 
 Use Python to build Machine Learning model to solve business questions: 
-- Employee Retention： 
+- Employee Retention: https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
 
 - Predicts conversion rate: https://github.com/mike456752/Machine_learning_project/blob/main/Project1.ipynb
 
