@@ -21,7 +21,7 @@ Use Python to build Machine Learning model to solve business questions:
 
 A/B Testing With Python:
 
-- https://github.com/mike456752/A-B_Testing/blob/main/AB%20testing%20with%20Python%20example.ipynb
+- Lauch new version of the product page or not: https://github.com/mike456752/A-B_Testing/blob/main/AB%20testing%20with%20Python%20example.ipynb
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike456752&show_icons=true&theme=radical)
