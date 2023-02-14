@@ -9,10 +9,9 @@
 ### Python examples:
 
 Use Python to answer business questions: 
+- Funnel Analysis: https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb
 
 - Traffic stops analysis: https://github.com/mike456752/python_tosolve_bp/blob/main/project.ipynb
-
-- https://github.com/mike456752/Data_Analyst/blob/main/R.ipynb
 
 Use Python to build Machine Learning model to solve business questions: 
 - Employee Retention: https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
