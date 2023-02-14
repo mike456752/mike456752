@@ -10,7 +10,7 @@
 
 Use Python to answer business questions: 
 
-- https://github.com/mike456752/python_tosolve_bp/blob/main/project.ipynb
+- Traffic stops analysis: https://github.com/mike456752/python_tosolve_bp/blob/main/project.ipynb
 
 - https://github.com/mike456752/Data_Analyst/blob/main/R.ipynb
 
