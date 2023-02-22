@@ -6,7 +6,7 @@
 
 - Daily business overview: https://public.tableau.com/app/profile/zongkun.yang/viz/Dailybusinessoverview/sheet10
 
-- IBM_HR_Dashboard: https://public.tableau.com/app/profile/zongkun.yang/viz/IBM_HR_Dashboard_16770911667660/Dashboard1
+- IBM_HR_Dashboard:https://public.tableau.com/app/profile/zongkun.yang/viz/IBM_HR_Dashboard_16770911667660/Dashboard1
 
 - Netfilx_Dashboard: https://public.tableau.com/app/profile/zongkun.yang/viz/netfilx_16735568186660/Dashboard1
 
