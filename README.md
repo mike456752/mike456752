@@ -23,6 +23,8 @@ Use Python to build Machine Learning model to solve business questions:
 - Employee retention: https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
 
 - Predicts conversion rate: https://github.com/mike456752/Machine_learning_project/blob/main/Project1.ipynb
+- Clustering Grocery Items: 
+
 
 A/B Testing With Python:
 
