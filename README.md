@@ -2,16 +2,6 @@
 
 📫 How to reach me: zongkunyangmike@gmail.com
 
-### Tableau examples:
-
-- Daily business overview: https://public.tableau.com/app/profile/zongkun.yang/viz/Dailybusinessoverview/sheet10
-
-- IBM_HR_Dashboard:https://public.tableau.com/app/profile/zongkun.yang/viz/IBM_HR_Dashboard_16770911667660/Dashboard1
-
-- Netfilx_Dashboard: https://public.tableau.com/app/profile/zongkun.yang/viz/netfilx_16735568186660/Dashboard1
-
-- Executive Overview: https://public.tableau.com/app/profile/zongkun.yang/viz/ExecutiveOverview-Profitability_16738149108540/ExecutiveOverview
-
 ### Python examples:
 
 Use Python to answer business questions: 
@@ -30,6 +20,15 @@ A/B Testing With Python:
 
 - Lauch new version of the product page or not: https://github.com/mike456752/A-B_Testing/blob/main/AB%20testing%20with%20Python%20example.ipynb
 
+### Tableau examples:
+
+- Daily business overview: https://public.tableau.com/app/profile/zongkun.yang/viz/Dailybusinessoverview/sheet10
+
+- IBM_HR_Dashboard:https://public.tableau.com/app/profile/zongkun.yang/viz/IBM_HR_Dashboard_16770911667660/Dashboard1
+
+- Netfilx_Dashboard: https://public.tableau.com/app/profile/zongkun.yang/viz/netfilx_16735568186660/Dashboard1
+
+- Executive Overview: https://public.tableau.com/app/profile/zongkun.yang/viz/ExecutiveOverview-Profitability_16738149108540/ExecutiveOverview
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike456752&show_icons=true&theme=radical)
 
