@@ -15,9 +15,9 @@ English Version Self-Introduction：https://github.com/mike456752/mike456752/blo
 - 漏斗分析：https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb
 
 #### 使用 Python 构建机器学习模型解决业务问题：
-- 员工留存：https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
-
 - 预测转化率：https://github.com/mike456752/Machine_learning_project/blob/main/Project1.ipynb
+
+- 员工留存：https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
 
 - 聚类杂货物品：https://github.com/mike456752/Clustering-Grocery-Items/blob/main/Clustering%20Grocery%20Items.ipynb
 
