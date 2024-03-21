@@ -1,5 +1,7 @@
 嗨，我是宗坤（Mike）！👋
 
+English Version Self-Introduction：https://github.com/mike456752/mike456752/blob/main/README.md
+
 📫 联系方式：zongkunyangmike@gmail.com
 
 ### Python 示例：
