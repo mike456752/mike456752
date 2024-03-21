@@ -5,7 +5,7 @@
 ### Python examples:
 
 #### Web Scraping for Amazon Review:
-- 
+- https://github.com/mike456752/Web_scraping/blob/main/Amazon_Review.py
 
 #### Use Python to answer business questions: 
 - Funnel analysis: https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb
