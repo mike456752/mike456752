@@ -15,9 +15,10 @@
 - Funnel analysis: https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb
 
 #### Use Python to build Machine Learning model to solve business questions: 
-- Employee retention: https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
-
 - Predicts conversion rate: https://github.com/mike456752/Machine_learning_project/blob/main/Project1.ipynb
+
+- Employee retention: https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
+  
 - Clustering Grocery Items: https://github.com/mike456752/Clustering-Grocery-Items/blob/main/Clustering%20Grocery%20Items.ipynb
 
 
