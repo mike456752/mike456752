@@ -1,6 +1,8 @@
-### Hi there, I'm zongkun(mike)! 👋
+### Hi there, I'm zongkun(mike)! 👋 
+中文版项目介绍：https://github.com/mike456752/mike456752/blob/main/Readme_%E4%B8%AD%E6%96%87%E7%89%88.md
 
 📫 How to reach me: zongkunyangmike@gmail.com
+
 
 ### Python examples:
 
