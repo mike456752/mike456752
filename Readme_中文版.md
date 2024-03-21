@@ -29,7 +29,7 @@
 
 - Netflix_仪表板：https://public.tableau.com/app/profile/zongkun.yang/viz/netfilx_16735568186660/Dashboard1
 
-执行概述：https://public.tableau.com/app/profile/zongkun.yang/viz/ExecutiveOverview-Profitability_16738149108540/ExecutiveOverview
+- CEO看板：https://public.tableau.com/app/profile/zongkun.yang/viz/ExecutiveOverview-Profitability_16738149108540/ExecutiveOverview
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike456752&show_icons=true&theme=radical)
 
