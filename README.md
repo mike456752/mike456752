@@ -8,9 +8,9 @@
 - https://github.com/mike456752/Web_scraping/blob/main/Amazon_Review.py
 
 #### Use Python to answer business questions: 
-- Funnel analysis: https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb
-
 - Traffic stops analysis: https://github.com/mike456752/python_tosolve_bp/blob/main/project.ipynb
+
+- Funnel analysis: https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb
 
 #### Use Python to build Machine Learning model to solve business questions: 
 - Employee retention: https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
