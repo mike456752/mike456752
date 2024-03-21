@@ -8,7 +8,7 @@
 - https://github.com/mike456752/Web_scraping/blob/main/Amazon_Review.py
 
 #### 使用 Python 回答业务问题：
-- 交通停止分析：https://github.com/mike456752/python_tosolve_bp/blob/main/project.ipynb
+- 交通分析：https://github.com/mike456752/python_tosolve_bp/blob/main/project.ipynb
 
 - 漏斗分析：https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb
 
