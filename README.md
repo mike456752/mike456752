@@ -14,17 +14,19 @@
 
 - Funnel analysis: https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb
 
-#### Use Python to build Machine Learning model to solve business questions: 
+#### Use Python to build a machine-learning model to solve business questions: 
 - Predicts conversion rate: https://github.com/mike456752/Machine_learning_project/blob/main/Project1.ipynb
 
 - Employee retention: https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
   
 - Clustering Grocery Items: https://github.com/mike456752/Clustering-Grocery-Items/blob/main/Clustering%20Grocery%20Items.ipynb
 
+#### Time Series Forecasting With Python:
+- 
 
 #### A/B Testing With Python:
 
-- Lauch new version of the product page or not: https://github.com/mike456752/A-B_Testing/blob/main/AB%20testing%20with%20Python%20example.ipynb
+- Launch new version of the product page or not: https://github.com/mike456752/A-B_Testing/blob/main/AB%20testing%20with%20Python%20example.ipynb
 
 ### Tableau examples:
 
