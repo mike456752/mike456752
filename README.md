@@ -22,7 +22,7 @@
 - Clustering Grocery Items: https://github.com/mike456752/Clustering-Grocery-Items/blob/main/Clustering%20Grocery%20Items.ipynb
 
 #### Time Series Forecasting With Python:
-- 
+- https://github.com/mike456752/Time_series/blob/main/Time_Series_Forecasting.ipynb
 
 #### A/B Testing With Python:
 
