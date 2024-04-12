@@ -21,6 +21,9 @@ English Version Self-Introduction：https://github.com/mike456752/mike456752/blo
 
 - 聚类杂货物品：https://github.com/mike456752/Clustering-Grocery-Items/blob/main/Clustering%20Grocery%20Items.ipynb
 
+#### 使用 Python时间序列预测:
+- https://github.com/mike456752/Time_series/blob/main/Time_Series_Forecasting.ipynb
+
 #### 使用 Python 进行 A/B 测试：
 - 是否发布产品页面的新版本：https://github.com/mike456752/A-B_Testing/blob/main/AB%20testing%20with%20Python%20example.ipynb
 
