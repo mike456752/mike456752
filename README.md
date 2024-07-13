@@ -6,7 +6,6 @@
 ## Recently working on：
 ####  How to develop an app: 
 - I recently discovered that developing an app is quite straightforward. You don't need to learn coding, so I'm giving it a shot, hoping it might bring in some cash LOL. Most importantly, I can apply my data analysis skills to optimize the app.
-- Here are useful resources I found(Small games): https://www.youtube.com/watch?v=AhsDx-WPkPQ&list=LL&index=1&t=607s
 
 
 
