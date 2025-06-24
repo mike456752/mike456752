@@ -1,50 +1,40 @@
-## Hi there, I'm zongkun(mike)! 👋 
-中文版项目介绍：[https://github.com/mike456752/mike456752](https://github.com/mike456752/mike456752/blob/main/Readme_%E4%B8%AD%E6%96%87%E7%89%88.md)
+# Hi there, I’m Zongkun (Mike) Yang! 👋
 
-📫 How to reach me: zongkunyangmike@gmail.com
+Welcome to my GitHub profile.
 
-## Recently working on：
-####  How to develop an app: 
-- I recently discovered that developing an app is quite straightforward. You don't need to learn coding, so I'm giving it a shot, hoping it might bring in some cash LOL. Most importantly, I can apply my data analysis skills to optimize the app.
+I’m a Data Analyst and Business Analyst with a strong background in Python, SQL, statistics, and machine learning. I enjoy solving real-world business problems with data and am passionate about building impactful data solutions. Currently, I am seeking full-time and internship opportunities in data analytics.
 
+📫 **Contact:** zongkunyangmike@gmail.com  
+🌍 **Location:** Los Angeles  
+🎓 **Education:** University of Southern California
 
+---
 
-## Data Analysis:
+## 🚀 What I’m Working On
 
-### Python examples:
+- **App Development Without Coding:** Exploring no-code platforms to create useful apps and applying my data analysis skills to optimize performance and user experience.
+- **Data Analysis Projects:** Applying Python and Tableau to address business questions and drive insights.
 
-#### Web Scraping for Amazon Review:
-- https://github.com/mike456752/Web_scraping/blob/main/Amazon_Review.py
+---
 
-#### Use Python to answer business questions: 
-- Traffic stops analysis: https://github.com/mike456752/python_tosolve_bp/blob/main/project.ipynb
+## 🛠️ Featured Projects
 
-- Funnel analysis: https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb
+### Python Projects
 
-#### Use Python to build a machine-learning model to solve business questions: 
-- Predicts conversion rate: https://github.com/mike456752/Machine_learning_project/blob/main/Project1.ipynb
+- **[Amazon Review Web Scraping](https://github.com/mike456752/Web_scraping/blob/main/Amazon_Review.py):** Automated extraction and analysis of Amazon product reviews.
+- **[Traffic Stops Analysis](https://github.com/mike456752/python_tosolve_bp/blob/main/project.ipynb):** Data-driven insights into traffic stop patterns and outcomes.
+- **[Funnel Analysis](https://github.com/mike456752/Funnel_Analysis/blob/main/Funnel%20Analysis.ipynb):** Analyzing customer conversion funnels to identify drop-off points.
+- **[Machine Learning Projects](https://github.com/mike456752/Machine_learning_project/blob/main/Project1.ipynb):** Predicting conversion rates, employee retention, and clustering grocery items.
+- **[Time Series Forecasting](https://github.com/mike456752/Time_series/blob/main/Time_Series_Forecasting.ipynb):** Forecasting trends and making business predictions.
+- **[A/B Testing Example](https://github.com/mike456752/A-B_Testing/blob/main/AB%20testing%20with%20Python%20example.ipynb):** Evaluating the impact of product page changes.
 
-- Employee retention: https://github.com/mike456752/Employee_Retention/blob/main/Employee%20Retention.ipynb
-  
-- Clustering Grocery Items: https://github.com/mike456752/Clustering-Grocery-Items/blob/main/Clustering%20Grocery%20Items.ipynb
+### Tableau Dashboards
 
-#### Time Series Forecasting With Python:
-- https://github.com/mike456752/Time_series/blob/main/Time_Series_Forecasting.ipynb
+- **[Daily Business Overview](https://public.tableau.com/app/profile/zongkun.yang/viz/Dailybusinessoverview/sheet10):** Key metrics and trends for daily business performance.
+- **[IBM HR Dashboard](https://public.tableau.com/app/profile/zongkun.yang/viz/IBM_HR_Dashboard_16770911667660/Dashboard1):** Visualizing HR data and employee metrics.
+- **[Netflix Dashboard](https://public.tableau.com/app/profile/zongkun.yang/viz/netfilx_16735568186660/Dashboard1):** Analysis of Netflix content and trends.
+- **[Executive Overview](https://public.tableau.com/app/profile/zongkun.yang/viz/ExecutiveOverview-Profitability_16738149108540/ExecutiveOverview):** Profitability and executive-level insights.
 
-#### A/B Testing With Python:
+---
 
-- Launch new version of the product page or not: https://github.com/mike456752/A-B_Testing/blob/main/AB%20testing%20with%20Python%20example.ipynb
-
-### Tableau examples:
-
-- Daily business overview: https://public.tableau.com/app/profile/zongkun.yang/viz/Dailybusinessoverview/sheet10
-
-- IBM_HR_Dashboard:https://public.tableau.com/app/profile/zongkun.yang/viz/IBM_HR_Dashboard_16770911667660/Dashboard1
-
-- Netfilx_Dashboard: https://public.tableau.com/app/profile/zongkun.yang/viz/netfilx_16735568186660/Dashboard1
-
-- Executive Overview: https://public.tableau.com/app/profile/zongkun.yang/viz/ExecutiveOverview-Profitability_16738149108540/ExecutiveOverview
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike456752&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike456752&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Thank you for visiting my profile! Feel free to connect or reach out if you’re interested in collaborating or discussing data analytics.
