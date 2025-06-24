@@ -12,8 +12,9 @@ I’m a Data Analyst and Business Analyst with a strong background in Python, SQ
 
 ## 🚀 What I’m Working On
 
-- **App Development Without Coding:** Exploring no-code platforms to create useful apps and applying my data analysis skills to optimize performance and user experience.
-- **Data Analysis Projects:** Applying Python and Tableau to address business questions and drive insights.
+- **App Monetization Solutions:** Using data-driven approaches to solve app monetization problems and optimize revenue strategies.
+  
+- **Data Analysis Projects:** Applying data analysis techniques to extract insights and answer key business questions.
 
 ---
 
